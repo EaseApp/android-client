@@ -5,7 +5,7 @@ Android/Java client for accessing the Ease API.
 
 Java/Android client for accessing the Ease API.
 
-Initializing Ease
+## Initializing Ease
 
 Parameters:
 
